@@ -44,4 +44,4 @@ Developed an interactive Power BI dashboard to analyze financial and operational
 
 ## Project File
 
-Power BI Dashboard (.pbix)
+Power BI Dashboard (Power bi.pbix)
