@@ -23,15 +23,15 @@ Developed an interactive Power BI dashboard to analyze financial and operational
 
 ### Executive Overview
 
-![Overview](screenshots/overview.png)
+![Overview](screenshots/Overview.png)
 
 ### Business Performance Analysis
 
-![Performance](screenshots/performance-analysis.png)
+![Performance](screenshots/Performance-analysis.png)
 
 ### Detailed Analysis
 
-![Detailed](screenshots/detailed-analysis.png)
+![Detailed](screenshots/Detailed-analysis.png)
 
 ## Skills Demonstrated
 
