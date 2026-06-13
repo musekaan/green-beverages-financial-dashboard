@@ -1,2 +1,47 @@
-# green-beverages-financial-dashboard
-Interactive Power BI dashboard for financial and operational analysis.
+# Green Beverages Financial Analytics Dashboard
+
+## Project Overview
+
+Developed an interactive Power BI dashboard to analyze financial and operational performance of a beverage business.
+
+## Tools Used
+
+- Power BI
+- DAX
+- Power Query
+- Excel
+
+## Dashboard Features
+
+- KPI Tracking
+- Geographic Analysis
+- Product Performance Analysis
+- Interactive Filters
+- Trend Monitoring
+
+## Screenshots
+
+### Executive Overview
+
+![Overview](screenshots/overview.png)
+
+### Business Performance Analysis
+
+![Performance](screenshots/performance-analysis.png)
+
+### Detailed Analysis
+
+![Detailed](screenshots/detailed-analysis.png)
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- DAX
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
+
+## Project File
+
+Power BI Dashboard (.pbix)
